@@ -1,6 +1,7 @@
 This is the script focus on Parse PacBio Long read and long read
 application tools
 
+Date: 02062025
 
 ### FLAIR tools for analyzing Nanopore reads on CHRNA5 isoform changes in smoking (CSC) vs DMSO in cells
 
