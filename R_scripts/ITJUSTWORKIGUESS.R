@@ -1,3 +1,9 @@
+##############
+# Trying to make h5ad file from parse long read data.
+# Not sure this is the right way
+#
+##############
+
 library(Seurat)
 library(SeuratDisk)
 library(SeuratObject)
